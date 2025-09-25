@@ -1,5 +1,5 @@
 # Trading-bot-using-RSI-AND-10-AVG
-This project implements an automated trading strategy for the ENSIMAG FX Trading Hackathon challenge. It uses real-time EUR/GBP price data from the challenge API and applies technical indicators (RSI and moving averages) to make trading decisions.
+This project implements an automated trading strategy for the ENSIMAG - **Morgan Stanley** Trading Hackathon challenge- 25 SEP 2025. It uses real-time EUR/GBP price data from the challenge API and applies technical indicators (RSI and moving averages) to make trading decisions.
 
 
 ##  Features
